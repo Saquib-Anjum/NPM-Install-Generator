@@ -1,4 +1,4 @@
-# 📦 NPM Package Installer App 🚀  
+# [📦 NPM Package Installer App 🚀](https://saquib-anjum.github.io/NPM-Install-Generator/)  
 
 **One-click `npm install` commands for all your favorite packages!**  
 
