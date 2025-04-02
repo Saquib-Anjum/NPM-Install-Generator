@@ -92,6 +92,6 @@ cd npm-package-installer
 
 ---
 
-Made with ❤️ by **[Your Name]**  
+Made with ❤️ by **SAQUIB ANJUM**  
 
 **Happy coding!** 💻🔥  
