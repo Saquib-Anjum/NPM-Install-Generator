@@ -155,8 +155,14 @@
 
         
         .footer-div{
+            display: flex;
             align-items: center;
             justify-self: center;
+            text-align: center;
             margin-top: 5px;
+            gap:30px;
         }
-  
+  .gitgub-image{
+    height: 5px;
+    width: 5px;
+  }
