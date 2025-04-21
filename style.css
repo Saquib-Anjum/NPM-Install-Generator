@@ -16,7 +16,9 @@
           
             margin: 0;
             padding: 20px;
-            background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)), url("/images//anchor-7592445_1920.jpg");
+            background-image: url('/images/anchor-7592445_1920.jpg'), linear-gradient(to bottom right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4));
+            background-blend-mode: overlay;
+            
 	        background-repeat: no-repeat;
 	        background-size: cover;
 	        background-position: center;
