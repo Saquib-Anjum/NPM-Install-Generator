@@ -16,7 +16,7 @@
           
             margin: 0;
             padding: 20px;
-            background-image: url('/images/bg.jpg'), linear-gradient(to bottom right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4));
+            background-image: url('./images/bg.jpg'), linear-gradient(to bottom right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4));
             background-blend-mode: overlay;
             
 	        background-repeat: no-repeat;
